@@ -1,3 +1,8 @@
+#### ⚠️ Important Notice: API Keys
+*For security reasons, all personal API keys have been removed frome this repository.
+To run this application normally on your local machine, you will need to issue and provide your own API keys.*
+
+
 # ✈️ RecommendTrip (맞춤형 관광지 추천 앱)
 
 ## 🛠️ Tech Stack
